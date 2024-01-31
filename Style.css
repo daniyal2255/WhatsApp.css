@@ -1,0 +1,435 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.para1 {
+    position: relative;
+}
+#ppp {
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.para2 {
+    width: 75%;
+    height: 500px;
+    border: 1px solid;
+    float: right;
+     background-color: rgb(44, 40, 40); 
+    position: relative;
+    
+    
+    
+}
+.abc1 {
+    width: 100%;
+    height: 50px;
+    border: 1px solid black;
+
+    
+}
+.abc2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 90px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.abc3 {
+    position: absolute;
+    top: 0px;
+    right: 86%;
+    color: white;
+    font-size: 10px;
+    line-height: 17px;
+}
+.para3 {
+    width: 100%;
+    height: 200px;
+    /* border: 1px solid black; 
+     */
+}
+.chats1 {
+    color: white;
+    font-size: 10px;
+    /* border: 1px solid; */
+    width: 25%;
+    height: 20px;
+    padding: 10px 5px 0px 5px; 
+    border-radius: 10px;
+    background-color: rgba(1, 127, 100, 0.731);
+    margin-top: 10px;
+    margin-left: 73%;
+    
+    
+}
+.box1 {
+    background-color: rgba(1, 127, 100, 0.731) ;
+    width: 25%;
+    height: 120px;
+    margin-top: 1%;
+    margin-left: 74%;
+    border: 1px solid;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.box2 {
+    width: 90%;
+    height: 100px;
+    margin-left: 12px;
+    margin-top: 10px;
+    background-color: rgba(1, 127, 100, 0.731); 
+    border: 1px solid rgba(1, 127, 100, 0.731);
+    position: relative;
+    
+}
+.chats2 {
+    color: white;
+    font-size: 10px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.button1 {
+    color: white;
+    font-size: 12px;
+    margin-top: 30px;
+    margin-left: 50%;
+    padding: 4px 25px 4px 25px;
+    background-color:  rgba(8, 82, 66, 0.731);
+    border: none;
+}
+.button2 {
+    color: white;
+    font-size: 12px;
+    /* margin-top: 30px;
+    margin-left: 10px; */
+    padding: 4px 25px 4px 25px;
+    background-color:  rgba(8, 82, 66, 0.731);
+    border: none;
+    position: absolute;
+    top: 63px;
+    right: 120px;
+    
+}
+.chats3 {
+    color: white;
+    font-size: 10px;
+    /* border: 1px solid; */
+    width: 80px;
+    height: 20px;
+    margin-left: 10px;
+    padding: 5px 0px 0px 15px;
+    background-color:rgb(35, 26, 26) ;
+    border-radius: 10px;
+}
+.A {
+    width: 40px;
+    height: 20px;
+    border-radius: 20px;
+    color: rgb(223, 211, 211);
+    font-size: 10px;
+    margin-left: 50%;
+    padding: 5px 0px 0px 10px;
+    background-color:rgb(35, 26, 26) ;
+}
+.para4 {
+    border: 1px solid;
+    width: 25%;
+    height: 32%;
+    margin-left: 10px;
+}
+.pic1 {
+    width: 94%;
+    margin-left: 8px;
+    margin-top: 5px;
+}
+.chats4 {
+    color: white;
+    font-size: 10px;
+    line-height: 0px;
+    margin-left: 10px;
+    
+}
+#phon {
+    color: white;
+    position: absolute;
+    top: 20px;
+    right: 110px;
+    font-size: 10px;
+}
+#camra {
+    color: white;
+    position: absolute;
+    top: 20px;
+    right: 70px;
+    font-size: 10px;
+}
+#search {
+    color: white;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    font-size: 10px;
+}
+.pic2 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.pic3 {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+.chats5 {
+    /* border: 1px solid; */
+    width: 15%;
+    height: 20px;
+    background-color:rgba(1, 127, 100, 0.731) ;
+    float: right;
+    margin-right: 10px;
+    font-size: 10px;
+    color: white;
+    padding: 5px 0px 0px 10px;
+    border-radius: 10px;
+}
+.pic5 {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 228px;
+    right: 92%;
+    border-radius: 5px;
+    
+}
+.season1 {
+     /* border: 1px solid white;  */
+    width: 312px;
+    height: 100px;
+    position: relative;
+    
+}
+
+.icon1 {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+.B {
+    color: white;
+    font-size: 10px;
+    top: 5px;
+    left: 35px;
+    position: absolute;
+    
+}
+.icon2 {
+    width: 25px;
+    height: 25px;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.C {
+    color: white;
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 10px;
+}
+#pencil {
+    color: white;
+    font-size: 10px;
+    position: absolute;
+    top:44% ;
+    left: 80%;
+}
+#list {
+    color: white;
+    font-size: 10px;
+    position: absolute;
+    top:44% ;
+    left: 90%;
+}
+.D {
+    background: black;
+    outline: none;
+    width:82% ;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: white;
+    border-top: 0px;
+    border-right: 0px;
+    border-bottom: 2px;
+    border-left: 0px;
+    border-style: solid;
+    border-color: green;
+}
+#search1 {
+    color: white;
+    font-size: 10px;
+    position: absolute;
+      top: 74px;
+      right: 40px;  
+}
+.season2 {
+    width:312px ;
+    height:40px ;
+    /* border: 1px solid white; */
+}
+.season3 {
+    width: 312px;
+    height: 60px;
+    /* border: 1px solid white; */
+    position: relative;
+}
+
+.icon4 {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 5px;
+
+}
+.text1 {
+    color: white;
+    font-size: 10px;
+    position: absolute;
+    top :18px;
+    left: 50px;
+    line-height: 8px;
+}
+.time1 {
+    color: white;
+    position: absolute;
+    top:0px;
+    left: 230px;
+}
+.season4 {
+    position: relative;
+    margin-top: 10px;
+    width: 312px;
+    height: 60px;
+    /* border: 1px solid white; */
+    
+}
+.season4:hover{
+    background-color:rgb(44, 40, 40) ;
+}
+
+.icon5 {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.text2 {
+    color: white;
+    font-size: 10px;
+    position: absolute;
+    top :18px;
+    left: 50px;
+    line-height: 8px;
+}
+.season5 {
+    position: relative;
+    margin-top: 11px;
+    width: 312px;
+    height: 60px;
+    /* border: 1px solid white; */
+}
+
+.icon6 {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.text3 {
+    color: white;
+    font-size: 10px;
+    position: absolute;
+    top :18px;
+    left: 50px;
+    line-height: 8px;
+}
+.time2 {
+    color: rgb(15, 186, 43);
+    position: absolute;
+    top:0px;
+    left: 230px;
+}
+
+.season6 {
+    position: relative;
+    margin-top: 11px;
+    width: 312px;
+    height: 60px;
+    /* border: 1px solid white; */
+}
+
+.icon7 {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: 5px;
+}
+.text4 {
+    color: white;
+    font-size: 10px;
+    position: absolute;
+    top :18px;
+    left: 50px;
+    line-height: 8px;
+}
+.ttt {
+    width: 75%;
+    height: 40px;
+    /* border: 1px solid white; */
+    position: absolute;
+      top: 255%;
+    left: 25%;
+}
+#ccc {
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#vvv {
+    color: white;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.www {
+    background-color: black;
+    margin-left: 10px;
+    border: none;
+    outline: none;
+    color: white;
+}
+#uuu {
+    color: white;
+    margin-top: 10px;
+    margin-left: 630px;
+}
+
+
+
+
+
+
+
+ @media  screen and (max-width: 92px){
+    body{
+        /* margin: 10px; */
+    }
+} 
